@@ -1,0 +1,8 @@
+2024-02-02  Mert Gör  <mertgor@masscollabs.xyz>
+
+	* README.md (ural): README update with simple explaining
+
+	* LICENSE: AGPLv3-or-later added
+
+	* .gitignore: gitignore for Emacs output added
+
