@@ -1,3 +1,7 @@
 # ural
 
 UNITED REGISTRATION ACCESS LEAGUE
+
+# License
+
+[AGPLv3-or-later](LICENSE)
