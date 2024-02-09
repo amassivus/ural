@@ -2,6 +2,8 @@
 
 UNITED REGISTRATION ACCESS LEAGUE
 
+* a distributed datacenter platform
+
 # License
 
 ural : UNITED REGISTRATION ACCESS LEAGUE
